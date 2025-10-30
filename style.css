@@ -1,1 +1,18 @@
-
+body {
+  background-color: #A0A0A0;
+  font-family: 'Roboto', sans-serif;
+  color: #FFFFFF
+}
+.kartu-profil {
+  width: 300px;
+  margin: 50px auto;
+  padding: 20px
+  background-color: white; /*membuat bayangan*/
+  border-radius: 15px /*membuat sudut menjadi melengkung*/
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /*efek bayangan*/
+  text-align: center; 
+} 
+.kartu-profil img {
+  width: 150px;
+  border-radius: 50%;
+}
