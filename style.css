@@ -3,7 +3,7 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #FFFFFF
 }
-."kartu-profile" {
+.kartu-profile {
   width: 300px;
   margin: 50px auto;
   padding: 20px;
@@ -11,8 +11,8 @@ body {
   border-radius: 15px; /*membuat sudut menjadi melengkung*/
   box-shadow: 0 4px 8px rgba(0,0,0,0.1); /*efek bayangan*/
   text-align: center; 
-} 
-."kartu-profile" img {
+}
+.kartu-profile img {
   width: 150px;
   border-radius: 50%;
 }
